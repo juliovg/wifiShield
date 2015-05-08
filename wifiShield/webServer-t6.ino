@@ -1,10 +1,3 @@
-/*
-This proyecto hace una peticion GET y recive el stado del dispositivo 
-si esta ON o OFF
-ver link de referencia 
-http://culverlabs.co/post/53729939800/wifilamp
-
-*/
 
 #include <SPI.h>
 #include <WiFi.h>
